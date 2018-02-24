@@ -1,3 +1,4 @@
 .idea
 target
 fp-scala.iml
+*.DS_Store
